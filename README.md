@@ -58,4 +58,6 @@ Considers how consistent and reproducible the model's performance is across diff
 ### 4.facebook/bart-large-cnn
 ### 5.t5-large
 
+Graph plotted for each model and its topsis score <img width="877" alt="Topsis_Graph" src="https://github.com/ArshiyaSethi13/Topsis-Text-Summarization/blob/main/graph.png">
+
 
